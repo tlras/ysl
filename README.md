@@ -1,4 +1,4 @@
-# ysl: yagton's scripting library (0.1.0)
+# ysl: yagton's scripting library (0.1.1)
 > Note: This is a prerelease version, API is subject to change without warning.
 
 This collection of OWOT modules is intended to provide readily accessible, high quality, and well-tested
