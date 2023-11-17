@@ -40,7 +40,7 @@ function placeCoordLink(toX, toY) {
 
 function writeString(str) {
     for (let char of str)
-        writeChar(chat);
+        writeChar(char);
 }
 
 return {
